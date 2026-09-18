@@ -1,4 +1,4 @@
-/** Base class for a named building with an address and person capacity. */
+/** Base class for a building with an address and person capacity. */
 public abstract class Building {
     private String address;
     private int capacity;
